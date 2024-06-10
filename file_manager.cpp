@@ -1,7 +1,7 @@
 // reads a file in 
 // writes a file
 
-#include "FileManager.h"
+#include "file_manager.h"
 
 void FileManager::openFile(std::string path) {
     this->fileName = path;
