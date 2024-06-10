@@ -9,7 +9,6 @@ ToDo:
 - create a makefile for the project
 - set it up to prompt user for input and 
 - write a shell script for testing it (read input from a file, write to another file, do a diff on both)
-- create a git repo for the project with a .gitignore file
 
 Bugs:
 - weird bug when diffing the file after reading and writing it. The file is actually the same and if I open it and save the diff dissapears but before that it thinks everything is different. Might have something to do with autosave?
