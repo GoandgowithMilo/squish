@@ -16,3 +16,10 @@ Bugs:
 Extensions:
 - Read all the files in a folder --> compress them 1 by 1 --> write the compressed files to another folder
 - Download all the content from a website and compress it
+
+References:
+- https://www.geeksforgeeks.org/lzw-lempel-ziv-welch-compression-technique/
+- https://www.cs.cmu.edu/~cil/lzw.and.gif.txt
+- https://marknelson.us/posts/2011/11/08/lzw-revisited.html
+- https://en.wikipedia.org/wiki/Huffman_coding
+- https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch

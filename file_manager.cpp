@@ -1,6 +1,3 @@
-// reads a file in 
-// writes a file
-
 #include "file_manager.h"
 
 void FileManager::openFile(std::string path) {
