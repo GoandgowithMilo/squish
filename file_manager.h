@@ -1,5 +1,5 @@
-#ifndef FILEMANAGER_H
-# define FILEMANAGER_H
+#ifndef FILE_MANAGER_H
+#define FILE_MANAGER_H
 
 #include <fstream>
 #include <iostream>
@@ -14,7 +14,6 @@ class FileManager {
         void openFile(std::string path);
         void readContents();
         void writeContents();
-
 };
 
 #endif
