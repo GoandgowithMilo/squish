@@ -1,1 +1,0 @@
-If I was writing my first program this would say something like "Hello, World!"
