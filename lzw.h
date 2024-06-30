@@ -2,9 +2,13 @@
 #define LZW_H
 
 #include <iostream>
+#include "compression.h"
 
-#define stuff 10
+class Lzw : public Compression {
+    public:
+        void compress();
 
-void testPrint();
+        void decompress();
+};
 
 #endif

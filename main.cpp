@@ -2,12 +2,11 @@
 #include "lzw.h"
 
 int main(int argc, char *argv[]) {
-    FileManager fm;
 
-    fm.openFile("./TestFiles/HelloWorld.txt");
-    fm.writeContents();
-
-    testPrint();
+    Lzw lzw;
+    lzw.compress();
+    lzw.decompress();
 
     return 0;
 }
+

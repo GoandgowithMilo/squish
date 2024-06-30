@@ -8,4 +8,7 @@
 !*/
 
 # Unignore the makefile
-!makefile
+!Makefile
+
+# Ignore object files
+*.o
